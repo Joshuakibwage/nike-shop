@@ -1,4 +1,4 @@
-
+import { products } from "../constants"
 
 const PopularProducts = () => {
   return (
