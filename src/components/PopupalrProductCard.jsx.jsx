@@ -6,7 +6,7 @@ const PopularProductCard = ({imgURL, name, price}) => {
       <img
        src={imgURL} 
        alt="product images"
-       className="w-[280px] h-[280px] group-hover:scale-100 transition-transform delay-200" 
+       className="w-[280px] h-[280px] group-hover:scale-105 transition-transform delay-200" 
        />
 
        <div className="flex mt-8 justify-start gap-2.5 ">
