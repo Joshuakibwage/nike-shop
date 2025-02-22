@@ -1,8 +1,25 @@
-# React + Vite
+# 👟 Nike Shoes Landing Page  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern **Nike Shoes Landing Page** built using **React & Tailwind CSS** to showcase the latest sneaker releases with a dynamic and responsive design.  
 
-Currently, two official plugins are available:
+## 🚀 Live Demo  
+🔗 [https://nike-shop-landingpage.vercel.app/] 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview  
+*(![alt text](image.png))*  
+
+## ✨ Features  
+✅ **Hero Section** – Stunning visuals of the latest Nike sneakers  
+✅ **Shoe Collection Display** – A responsive grid showcasing top-selling sneakers  
+✅ **Call-to-Action (CTA)** – Encouraging users to shop and explore new sneaker drops  
+✅ **Smooth Animations** – Enhancing user experience with fluid transitions  
+✅ **Fully Responsive** – Optimized for both desktop and mobile  
+
+## 🛠️ Tech Stack  
+- **Frontend:** React, Tailwind CSS  
+- **Icons & Animations:** Framer Motion, Heroicons  
+
+## 📂 Installation & Setup  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Joshuakibwage/nike-shop.git
